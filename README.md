@@ -13,6 +13,7 @@ Curated list of blockchain and general cryptocurrency resources
 - [ΙΟΤΑ](#ΙΟΤΑ)
 - [Youtube Channels](#youtube-channels)
 - [Explorers](#Explorers)
+- [Websites](#websites)
 - [Other Decentralised Tech](#other-decentralised-tech)
 
 
@@ -65,6 +66,9 @@ Curated list of blockchain and general cryptocurrency resources
 ### Explorers
 * [CryptoCompare](https://www.cryptocompare.com/)
 * [Bitinfocharts](https://bitinfocharts.com/bitcoin/explorer/)
+
+### Websites
+* [Upfolio - Cryptocurrency Guides and resources for over 2500 cryptocurrency assets](https://www.upfolio.com)
 
 
 ### Other Decentralised Tech
